@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](assets/images/results-summary-component-main_index_landscape.html.png)
+![](assets/images/results-summary-component-main_index_portrait.html.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
