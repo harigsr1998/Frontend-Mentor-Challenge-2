@@ -2,7 +2,7 @@
     body{
         margin: 17.3rem 0 0;
         font-family: 'Hanken Grotesk', sans-serif;
-        background-color: hsl(221, 100%, 96%);
+        background-color: hsla(221, 100%, 96%,0.1);
     }
     h1{
         color: hsl(0, 0%, 100%);
@@ -128,7 +128,7 @@
     body{
         margin: 0;
         font-family: 'Hanken Grotesk', sans-serif;
-        background-color: hsl(221, 100%, 96%);
+        background-color: hsla(221, 100%, 96%,0.1);
     }
     h1{
         color: hsl(0, 0%, 100%);
