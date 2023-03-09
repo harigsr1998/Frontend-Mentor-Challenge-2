@@ -61,7 +61,7 @@ I was expecting this challenge to be a bit difficult for my current level, even 
 
 Once again I encountered the issue of the the body never achieving a width of 375px exactly. It would always be 375.2px. However, due to the difference in how I configured @mdeia queries this did not create a problem this time. Another aspect is the tricky solution I had to implement, which I have shown above. I doubt if that is the right or straight way to do it and I wonder if there exists better or different solutions that I haven't learnt yet. I would love to explore more in this area.
 
-The resources for this challenge also included some images as .svg files, fonts as .ttf files and some data as a .json file. I integrated the .svg and .json files into the webpage by directly by typing in their code and linked the fonts from Google Fonts. In the future I would like to learn to integrate these resources by linking them and not typing in the code.
+The resources for this challenge also included some images as .svg files, fonts as .ttf files and some data as a .json file. I integrated the .svg and .json files into the webpage by directly typing in their code and linked the fonts from Google Fonts. In the future I would like to learn to integrate these resources by linking them and not typing in the code.
 
 ### Useful resources
 
