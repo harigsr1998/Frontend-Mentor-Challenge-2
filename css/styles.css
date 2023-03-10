@@ -2,7 +2,7 @@
     body{
         margin: 17.3rem 0 0;
         font-family: 'Hanken Grotesk', sans-serif;
-        background-image: linear-gradient(to bottom right, hsla(221, 100%, 96%,0.2), hsla(221, 100%, 96%,0.6));
+        background-color: hsla(221, 100%, 96%,0.6);
     }
     h1{
         color: hsl(0, 0%, 100%);
